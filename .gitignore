@@ -11,5 +11,8 @@ data/processed/*
 !data/processed/.gitkeep
 figures/*
 !figures/.gitkeep
+!figures/*.png
+!figures/*.jpg
+!figures/*.svg
 .DS_Store
 Thumbs.db

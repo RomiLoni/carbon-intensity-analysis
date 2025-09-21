@@ -71,6 +71,12 @@ jupyter notebook
 ### Example output
 ![Daily trend](figures/daily_trend.png)
 
+## Dashboard Preview
+
+Built with [Streamlit](https://streamlit.io/).
+
+![Dashboard Screenshot](figures/dashboard.png)
+
 ## Notes
 - The notebook and script are robust to missing values and network hiccups.
 - By default, times are handled in UTC. You can convert to Europe/London if you prefer.

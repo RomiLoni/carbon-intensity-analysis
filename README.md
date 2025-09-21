@@ -68,6 +68,9 @@ jupyter notebook
 - Hour-of-day profile averaged across period
 - (Optional) Calendar heatmap of intensity by day vs hour
 
+### Example output
+![Daily trend](figures/daily_trend.png)
+
 ## Notes
 - The notebook and script are robust to missing values and network hiccups.
 - By default, times are handled in UTC. You can convert to Europe/London if you prefer.
